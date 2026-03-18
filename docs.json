@@ -2,6 +2,10 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Mint Starter Kit",
+  "head": [
+    "<script async src='https://www.googletagmanager.com/gtag/js?id=G-5TNB9RS272'></script>",
+    "<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5TNB9RS272');</script>"
+  ],
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
